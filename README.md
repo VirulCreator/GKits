@@ -8,6 +8,17 @@ GKits are unique kits, which are mostly focused on improving donators gameplay. 
 
 ![GKits](https://github.com/VirulCreator/GKits/blob/master/img/icon.png)
 
+---
+## Features
+>- Chest GUI
+>- Config (See below)
+>- Multi-lang support
+>- Custom Enchants
+>- Economy plugin support (EconomyAPI as of now)
+>- Customizable messages
+- And more coming soon!
+---
+
 ## Download
  [PoggitCI](https://poggit.pmmp.io)
  
